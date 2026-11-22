@@ -1,0 +1,16 @@
+{
+  "name": "Conquest C441 Run Sheet",
+  "short_name": "C441 Run Sheet",
+  "description": "C441 fuel computer setups and engine ground run sheet",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f8",
+  "theme_color": "#14202e",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
